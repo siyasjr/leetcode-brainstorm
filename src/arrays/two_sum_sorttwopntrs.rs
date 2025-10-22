@@ -24,3 +24,6 @@ fn main() {
     let indexed: Vec<_> = nums.iter().cloned().enumerate().map(|(i, v)| (v, i)).collect();
     println!("{:?}", two_sum_sorting(indexed, target)); // [0, 1]
 }
+
+
+// Complexity : O(n log n)
