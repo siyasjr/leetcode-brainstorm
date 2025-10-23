@@ -7,3 +7,6 @@ fn contains_duplicate(mut nums: Vec<i32>) -> bool {
     }
     false
 }
+
+
+// Complexity:O(n log n)
