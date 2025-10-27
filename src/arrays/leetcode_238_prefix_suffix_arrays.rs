@@ -10,6 +10,7 @@ impl Solution {
         }
 
         for i in (0..n - 1).rev() {
+            
             suffix[i] = suffix[i + 1] * nums[i + 1];
         }
 
