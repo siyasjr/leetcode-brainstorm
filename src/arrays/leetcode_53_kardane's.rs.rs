@@ -13,3 +13,19 @@ impl Solution {
 }
 
 // Complexity - (Optimal — O(n), O(1)) 
+
+/*
+Steps:
+
+Initialize max_sum = nums[0]
+
+Initialize current_sum = nums[0]
+
+For each num in nums[1..]:
+
+current_sum = max(num, current_sum + num)
+
+max_sum = max(max_sum, current_sum)
+
+Return max_sum
+ */
