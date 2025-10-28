@@ -16,7 +16,7 @@ impl Solution {
             prod *= num;
             max_prod = max_prod.max(prod);
             if num == 0 { prod = 1; }
-        }Multiply left-to-right and right-to-left — resets when zero appears.
+        }
 
         max_prod
     }
