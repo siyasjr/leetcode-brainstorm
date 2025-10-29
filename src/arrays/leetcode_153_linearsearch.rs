@@ -8,3 +8,5 @@ impl Solution {
         nums[0]
     }
 }
+
+// Complexity : O(k), where k is the rotation amount
