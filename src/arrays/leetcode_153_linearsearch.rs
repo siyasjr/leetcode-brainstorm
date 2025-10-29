@@ -9,4 +9,4 @@ impl Solution {
     }
 }
 
-// Complexity : O(k), where k is the rotation amount
+// Complexity : O(k), where k is the rotation amount | Not guaranteed O(log n), but faster in small rotations.
