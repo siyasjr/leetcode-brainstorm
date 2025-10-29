@@ -14,3 +14,5 @@ impl Solution {
         nums[left]
     }
 }
+
+// Complexity : O(log n)
