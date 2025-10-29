@@ -3,3 +3,5 @@ impl Solution {
         *nums.iter().min().unwrap()
     }
 }
+
+// Complexity : O(n)
