@@ -29,3 +29,6 @@ impl Solution {
         a.len() <= b.len()
     }
 }
+
+
+// complexity : O(N² × L)
