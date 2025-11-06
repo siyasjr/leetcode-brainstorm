@@ -25,3 +25,5 @@ impl Solution {
         a.len() <= b.len()
     }
 }
+
+//complexity : O(N × L))
