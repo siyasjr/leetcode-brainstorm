@@ -12,3 +12,5 @@ impl Solution {
         max_area
     }
 }
+
+// complexity : O(N²)
