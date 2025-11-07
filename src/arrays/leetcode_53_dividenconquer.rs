@@ -1,4 +1,4 @@
-ub fn max_sub_array(nums: Vec<i32>) -> i32 {
+pub fn max_sub_array(nums: Vec<i32>) -> i32 {
     fn helper(nums: &[i32], left: usize, right: usize) -> i32 {
         if left == right {
             return nums[left];
