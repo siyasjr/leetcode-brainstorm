@@ -13,3 +13,5 @@ impl Solution {
         nums.sort();
     }
 }
+
+// complexity : O(N! × N)
