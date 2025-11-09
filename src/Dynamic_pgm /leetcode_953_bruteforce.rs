@@ -6,3 +6,5 @@ impl Solution {
         Self::climb_stairs(n - 1) + Self::climb_stairs(n - 2)
     }
 }
+
+// complexity : O(2ⁿ)
