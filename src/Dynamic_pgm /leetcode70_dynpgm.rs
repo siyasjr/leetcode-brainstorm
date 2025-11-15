@@ -13,3 +13,5 @@ impl Solution {
         solve(n, &mut memo)
     }
 }
+
+// complexity : O(n)
