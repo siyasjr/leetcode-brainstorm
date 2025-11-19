@@ -17,3 +17,5 @@ impl Solution {
         backtrack(&s, &word_dict)
     }
 }
+
+//complexity : O(2ⁿ)
