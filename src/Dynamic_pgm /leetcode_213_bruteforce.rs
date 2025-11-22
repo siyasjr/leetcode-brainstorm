@@ -14,3 +14,5 @@ impl Solution {
         dfs(0, &nums[..n - 1]).max(dfs(0, &nums[1..]))
     }
 }
+
+// not practical though
