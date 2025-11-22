@@ -26,3 +26,5 @@ impl Solution {
         case1.max(case2)
     }
 }
+
+//complexity : O(n)**
