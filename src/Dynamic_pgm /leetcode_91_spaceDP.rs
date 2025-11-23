@@ -27,3 +27,5 @@ impl Solution {
         next1
     }
 }
+
+//complexity : O(1)
