@@ -26,3 +26,5 @@ impl Solution {
         res
     }
 }
+
+//complexity : O(n²)
