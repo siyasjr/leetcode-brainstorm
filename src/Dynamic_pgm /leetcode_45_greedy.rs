@@ -21,3 +21,5 @@ impl Solution {
         jumps
     }
 }
+
+//complexity : (O(n)
