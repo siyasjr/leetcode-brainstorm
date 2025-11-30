@@ -16,3 +16,5 @@ impl Solution {
         dp[n - 1]
     }
 }
+
+//complexity: O(n²)
