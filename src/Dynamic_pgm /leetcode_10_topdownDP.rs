@@ -29,3 +29,5 @@ impl Solution {
         dfs(0, 0, &s_chars, &p_chars, &mut memo)
     }
 }
+
+//complexity : O(n·m)
